@@ -1,0 +1,8 @@
+Voici notre AI.
+
+Le fichier est aussi disponible sur notre PC.
+
+Pour lancer le test, ouvrir un terminal depuis ~/Documents/Projet_final_AI_kouassi_bonmarin, puis taper la commande suivante :
+
+python pyrat.py -d 0 -md 0 -p 40 --rat AIs/kouassi_bonmarin_algo.py --python AIs/manh.py --synchronous --tests 1000 --nodrawing --nonsymmetric
+
